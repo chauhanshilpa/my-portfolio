@@ -123,3 +123,18 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+.digital_resume{
+  text-align: center;
+  margin-top: 2rem;
+  font-size: large;
+}
+
+.digital_resume a{
+  color: rgb(116, 116, 249);
+  text-decoration: underline;
+}
+
+.digital_resume a:hover {
+  color: rgb(47, 47, 251);
+}

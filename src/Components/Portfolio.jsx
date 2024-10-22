@@ -93,6 +93,15 @@ const Portfolio = () => {
           </div>
         </div>
       </div>
+      <div className="digital_resume">
+        <a
+          href="https://chauhanshilpa.github.io/shilpa-resume"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Click here to see Digital Resume
+        </a>
+      </div>
     </section>
   );
 };
